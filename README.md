@@ -16,7 +16,7 @@
 
 选择充电协议驱动板
 
-链接 https://item.taobao.com/item.htm?id=589562751436
+链接 https://item.taobao.com/item.htm?id=589562751436 不支持NV126A1M-N51屏幕
 
 ## 电源
 
