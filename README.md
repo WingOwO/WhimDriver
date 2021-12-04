@@ -4,6 +4,8 @@
 
 选择NV126A1M-N51, 12.6寸, 可配合键盘套使用
 
+链接 https://item.taobao.com/item.htm?id=660356622123
+
 价格 200
 
 ## 驱动板
@@ -13,6 +15,8 @@
 支持外设
 
 选择充电协议驱动板
+
+链接 https://item.taobao.com/item.htm?id=589562751436
 
 ## 电源
 
