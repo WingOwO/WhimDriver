@@ -4,11 +4,7 @@
 
 ## 面板
 
-选择NV126A1M-N51, 12.6寸, 可配合键盘套使用
-
-链接 https://item.taobao.com/item.htm?id=660356622123
-
-价格 200
+LQ125T1JW02 = 2560×1440 = 12.5寸 = 无触屏 可配合键盘套使用
 
 ## 驱动板
 
@@ -18,15 +14,19 @@
 
 选择充电协议驱动板
 
-链接 https://item.taobao.com/item.htm?id=589562751436 不支持NV126A1M-N51屏幕
+https://item.taobao.com/item.htm?id=634014402399
+
+## 电路选择
+
+todo
 
 ## 电源
 
-选择10000+mah
+todo
 
 ## 充电模块
 
-未选
+todo
 
 ## 外壳
 
