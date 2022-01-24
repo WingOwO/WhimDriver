@@ -5,6 +5,7 @@
 	尺寸 12.6寸
 	端子 40 pins
 	无触屏
+	价格 200+10
 	
 驱动板 G款
 	link https://item.taobao.com/item.htm?id=634014402399
