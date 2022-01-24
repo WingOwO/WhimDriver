@@ -1,10 +1,11 @@
 屏幕: NV126A1M-N51
-	link 
+	link https://item.taobao.com/item.htm?spm=3299i.1.14.35.a6792174sMubMz&id=660356622123&ns=1&abbucket=19#detail
 	接口 eDP1.3
 	分辨率 2560x1440
 	尺寸 12.6寸
 	端子 40 pins
-
+	无触屏
+	
 驱动板 G款
 	link https://item.taobao.com/item.htm?id=634014402399
 	尺寸 95 * 65
