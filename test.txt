@@ -1,5 +1,5 @@
-屏幕: NV126A1M-N51
-	link https://item.taobao.com/item.htm?spm=3299i.1.14.35.a6792174sMubMz&id=660356622123&ns=1&abbucket=19#detail
+屏幕: LQ125T1JW02
+	link https://item.taobao.com/item.htm?id=558261676247
 	接口 eDP1.3
 	分辨率 2560x1440
 	尺寸 12.6寸
